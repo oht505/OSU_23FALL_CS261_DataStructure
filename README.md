@@ -1,1 +1,3 @@
-# OSU_23FALL_CS261_DataStructure
+# CS 261 DataStructure
+
+* This repository is for assignments
